@@ -1,4 +1,5 @@
 # CNN-Breastcancer-Detection
+ 
 Using a pre-trained CNN algorithm to analyze breast mammogram images. 
 
 ## Requirements
@@ -14,3 +15,6 @@ we collect the data from Kaggle - (https://www.kaggle.com/kmader/mias-mammograph
 | traning accuracy | test accuracy | f1 score | recall  | precision | Total Parameters|
 |--------------|-------------|------------|----------|-------------|-------|
 |0.96|0.96|0.97|0.95|0.98 |47,929,410|
+
+To get in touch, visit - https://www.linkedin.com/in/angelo-perera-0b8966182
+
